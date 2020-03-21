@@ -1,0 +1,9 @@
+.main-header {
+    background: #8448c2 ;
+    color: #fff;
+    width: 100%;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
